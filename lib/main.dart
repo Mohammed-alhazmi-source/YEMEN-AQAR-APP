@@ -13,6 +13,8 @@ import 'firebase_options.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await initApp();
+
+  // هنا ان شاء الله راح نكمل بعض التعديلات
 }
 
 class EntryPoint extends StatefulWidget {
