@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668123903606",
+    "project_id": "yemen-aqar-app-3159f",
+    "storage_bucket": "yemen-aqar-app-3159f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668123903606:android:d49841afee52a1d9d89157",
+        "android_client_info": {
+          "package_name": "com.ebroker.wrteam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4k9N42Ob9qWUy_PtL1bD5MFlNEDspNAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
